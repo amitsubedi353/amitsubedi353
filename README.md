@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Amit Subedi
+- 👋 Hi, I’m Manmohan Subedi
 - 👀 I’m interested in Java Programming
 - 🌱 I’m currently learning Bsc.CSIT
 - 💞️ I’m looking to collaborate on ...
